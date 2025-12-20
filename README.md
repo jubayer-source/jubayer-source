@@ -7,6 +7,6 @@ This is Md. Jubayer Ahmad.
 - I’m currently learning COMPETIVE PROGRAMMING, FLUTTER APPS DEVELOPMENT as well as CTF.
 - I’m looking to collaborate on flutter App Making Now. <!-- 🤔 I’m looking for help with ...-->
 - Ask me about if you know more..
-- How to reach me: [Linkedin](https://www.linkedin.com/in/jubayer5864/)
+- How to reach me: [Linkedin](https://www.linkedin.com/in/jubayer-source/) & [Whatsapp](https://wa.me/8801307279516)
 - Pronouns: He/Him
 <!-- - ⚡ Fun fact: --> 
