@@ -9,7 +9,7 @@
   <a href="https://iqrapathshala.com">
     <img src="https://img.shields.io/badge/Production-Iqra%20Pathshala-0A7B5E?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://wa.me/8801307259516">
+  <a href="https://wa.me/8801307279516">
     <img src="https://img.shields.io/badge/Project%20Inquiry-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
